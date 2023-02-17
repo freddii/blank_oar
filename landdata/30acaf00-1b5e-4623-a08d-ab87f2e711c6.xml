@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LandData>
+  <Area>65536</Area>
+  <AuctionID>0</AuctionID>
+  <AuthBuyerID>00000000-0000-0000-0000-000000000000</AuthBuyerID>
+  <Category>0</Category>
+  <ClaimDate>1500000000</ClaimDate>
+  <ClaimPrice>0</ClaimPrice>
+  <GlobalID>30acaf00-1b5e-4623-a08d-ab87f2e711c6</GlobalID>
+  <GroupID>00000000-0000-0000-0000-000000000000</GroupID>
+  <IsGroupOwned>False</IsGroupOwned>
+  <Bitmap>//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=</Bitmap>
+  <Description />
+  <Flags>671096907</Flags>
+  <LandingType>2</LandingType>
+  <Name>Creative Sandbox Parcel</Name>
+  <Status>0</Status>
+  <LocalID>1</LocalID>
+  <MediaAutoScale>0</MediaAutoScale>
+  <MediaID>00000000-0000-0000-0000-000000000000</MediaID>
+  <MediaURL />
+  <MusicURL />
+  <OwnerID>ec0a6af7-ba8d-49a5-accc-80dfb1335d31</OwnerID>
+  <ParcelAccessList />
+  <PassHours>0</PassHours>
+  <PassPrice>0</PassPrice>
+  <SalePrice>0</SalePrice>
+  <SnapshotID>00000000-0000-0000-0000-000000000000</SnapshotID>
+  <UserLocation>&lt;0, 0, 0&gt;</UserLocation>
+  <UserLookAt>&lt;0, 0, 0&gt;</UserLookAt>
+  <Dwell>0</Dwell>
+  <OtherCleanTime>0</OtherCleanTime>
+</LandData>

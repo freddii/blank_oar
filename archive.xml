@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<archive major_version="0" minor_version="8">
+  <creation_info>
+    <datetime>1500000000</datetime>
+    <id>30a8b2c8-f2e2-4cf6-b65a-3aa6d6e51739</id>
+  </creation_info>
+  <assets_included>True</assets_included>
+  <region_info>
+    <is_megaregion>False</is_megaregion>
+    <size_in_meters>256,256</size_in_meters>
+  </region_info>
+</archive>
